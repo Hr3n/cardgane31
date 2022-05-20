@@ -1,0 +1,17 @@
+Pravila igre so sledeca:
+1. Vsak igralec ima 3 karte v roki.
+2. Ko si na potezi vleces 1 karto lahko iz deck ali pa iz sredine mize.
+3. potezo koncas tako, da se znebis 1 karte iz roke.
+4. Cilj igre je da imas vec tock v roki kot nasprotniki.
+
+5. Tocke se sestevajo sledece:
+5a. Karte so vredne toliko kot na njih pise  stevilka so pa tudi izjeme
+5b. karte s slikami so vredne 10 tock, as je vreden 11 tock.
+5c. tocke se lahko sestevajo ampak le ce imas karte z istim znakom.
+5d. npr. v roki imas pikovega asa(11), pikovo trojko(3) in krizovega kralja(10),
+5d. skupno stevilo tock imas 14 saj sestejeta le as in trojka.
+5e. ce nimas nobenega para se za tocke uposteva karta z najvecjo vrednostjo.
+
+6. Ko imas obcutek da imas dobre karte, potrkas in igra se zakljuci.
+7. Zmagas na podlagi, ce imas vec tock kot ostali igralci.
+8. Ce slucajno kaksen igralec ima vec tock kot ti, si izgubil.
